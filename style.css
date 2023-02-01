@@ -1,0 +1,45 @@
+ body {
+    font-family: sans-serif;
+}
+header p{
+color:blue;
+}
+header a {
+color:white;
+background-color: darkblue;
+border:2px solid darkblue;
+border-radius: 5px;
+}
+main h1{
+color:purple;
+border: white;
+border-radius: 1px solid white ;
+text-align: center;
+}
+footer {
+background-color: pink;
+border:5px solid pink; 
+
+}
+footer p{
+background-color:white;
+padding: 5px;
+}
+nav{
+    border: 5px solid green;
+    border-radius: 5px;
+    background-color: green;
+    text-align: center;
+}
+nav a{
+    color:white;
+    margin: 20px;
+    text-decoration:none;
+}
+.g{
+border:5px solid lightgreen;
+border-radius: 5px;
+background-color:lightgreen;
+}
+.s{
+color:blue;
